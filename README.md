@@ -10,7 +10,7 @@ An online national clothing chain needs assistance in creating a targeted market
 
 The goal is to analyze the provided data to determine the best product to advertise to each customer.
 
-## Analysis and Insights Based on the Provided Visualizations
+## Analysis and Insights
 
 ### Correlation (R² value) between Sales and Income: **0.78**
 - **Insight**: A strong correlation suggests that sales are a significant predictor of income and vice versa.
