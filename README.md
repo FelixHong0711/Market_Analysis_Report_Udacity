@@ -1,5 +1,7 @@
 # Targeted Marketing Campaign Analysis
 
+This project is a part of Udacity course: Advanced Data Analysis with Power BI
+
 ## Business Requirement
 
 An online national clothing chain needs assistance in creating a targeted marketing campaign. Sales have been flat, and the company wants to lure lost customers back. They aim to advertise specific products to specific customers in specific locations, but currently lack insight into who to target. The products in focus include:
